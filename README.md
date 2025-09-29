@@ -73,3 +73,4 @@ Power BI: Open Flipkart_Sales_Dashboard.pbix in Power BI Desktop
 
 ## 📸 Dashboard Preview
 ![image alt]https://github.com/Aanya-Gupta1/Flipkart-Sales-Dashboard/blob/2654bba7eb48681965ddacf9c858d4a8966ac182/flipkart%20.png
+![video alt]https://github.com/Aanya-Gupta1/Flipkart-Sales-Dashboard/blob/d61c21ad0e47d806519dc8c4588a19b1e7fe2718/flipkart_video.mp4
