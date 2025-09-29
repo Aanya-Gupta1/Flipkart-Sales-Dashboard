@@ -40,7 +40,7 @@ Power BI: Open Flipkart_Sales_Dashboard.pbix in Power BI Desktop
 
 ## 📸 Dashboard Preview
 ![image alt](https://github.com/Aanya-Gupta1/Flipkart-Sales-Dashboard/blob/18e28ca52176ab93cd87c171686b9c453f046b42/flipkart%20.png)
-![video alt](https://github.com/Aanya-Gupta1/Flipkart-Sales-Dashboard/blob/d61c21ad0e47d806519dc8c4588a19b1e7fe2718/flipkart_video.mp4)
+![watch the video](https://github.com/Aanya-Gupta1/Flipkart-Sales-Dashboard/blob/d61c21ad0e47d806519dc8c4588a19b1e7fe2718/flipkart_video.mp4)
 
 ## 🎯 Strategic Outcomes
 - Puts the power back in your hands: The dashboard clearly highlights customer buying patterns and preferred payment methods, allowing your teams to make smarter, data-driven decisions instead of just      guessing.
