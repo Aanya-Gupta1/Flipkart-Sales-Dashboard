@@ -46,3 +46,5 @@ Power BI: Open Flipkart_Sales_Dashboard.pbix in Power BI Desktop
 - Puts the power back in your hands: The dashboard clearly highlights customer buying patterns and preferred payment methods, allowing your teams to make smarter, data-driven decisions instead of just      guessing.
 - Focuses the effort: It tells you exactly which product categories (like Electronics) are driving the most revenue, so you know where to prioritize inventory and marketing spend.
 - Optimizes the wallet: By showing the impact of the average discount, the dashboard helps you fine-tune your pricing strategy to maximize sales without giving away too much profit.
+
+  _Author: Aanya Gupta_
