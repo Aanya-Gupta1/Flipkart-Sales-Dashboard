@@ -71,8 +71,5 @@ Power BI: Open Flipkart_Sales_Dashboard.pbix in Power BI Desktop
 - Check product-wise and category-wise performance
 - Compare discount ranges vs. sales
 
- 📸 Dashboard Preview
-
-(Add more screenshots in the screenshots/ folder as needed)
-
+## 📸 Dashboard Preview
 ![image alt]https://github.com/Aanya-Gupta1/Flipkart-Sales-Dashboard/blob/2654bba7eb48681965ddacf9c858d4a8966ac182/flipkart%20.png
